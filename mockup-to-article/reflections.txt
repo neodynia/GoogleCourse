@@ -1,0 +1,15 @@
+###You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:###
+
+
+  ####*What new skills have you learned?*####
+    I have learned the global overview and structure of current websites according to good practices and finally understand how I can build a site from a global perspective first (identifying the tree).  After that, I reviewed some tags I knew already and learned many more;  however the best thing is I learned how to find ones that I will need to know in the future.  The research and information seeking skills that have been modeled in the units has been incredibly helpful.  I've also learned to pay atention to details and stylings as ever little difference will reflect in the coding of that element or attribute. 
+    
+  ####*What has been easy?*####
+    Researching material and following along with the lessons.  The lessons are designed so intelligently and are very engaging that doing this course has been viewed as easy in the context of easy to get myself to do.  I do not want to procrastinate and I have enjoyed learning about HTML thus far.  Also, some of the basics have been easy for me since I have had some very basic HTML before, but years ago and clearly I was a little outdated. 
+  
+  ####*What has been difficult?*####
+    Building the mock-ups and paying attention to ultra fine details that I may miss on first pass.  Some of the syntax and setup was hard at first, but once I started to understand the parent, sibling relationship I started to improve with it slightly.  Sometimes, I find the amount and volume of information to be overwhelming when conducting seeking information and sometimes that could hinder my progress.  
+  
+  ####*How have you used the problem solving strategies from the first project to overcome challenges so far?*####
+    When I did not know something, I started a search.  I took notes, compared what I didn't know to what I did know in an effor to make an inference or generate a hypothesis.  At one point, I even engaged in a conversation while I was at work, which occured mid-unit, with a developer friend of mine.  Basically, I used my available resources, collected information, analyzed it, experimented with it (as with tests and changing syntax as recommmended to see its effect), and reviewed and reanalyzed in a reflective manner, much as I am doing right now in this assignment.
+
